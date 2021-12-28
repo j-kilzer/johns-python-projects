@@ -1,8 +1,3 @@
-
-
-
-
-
 #Madlibs generator with randomized words from lists
 
 import random
